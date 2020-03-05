@@ -1,0 +1,41 @@
+C:\Users\Ricardo MR\source\repos\PizzaApp\bin\Debug\PizzaApp.exe.config
+C:\Users\Ricardo MR\source\repos\PizzaApp\bin\Debug\PizzaApp.exe
+C:\Users\Ricardo MR\source\repos\PizzaApp\bin\Debug\PizzaApp.pdb
+C:\Users\Ricardo MR\source\repos\PizzaApp\bin\Debug\EntityFramework.dll
+C:\Users\Ricardo MR\source\repos\PizzaApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ricardo MR\source\repos\PizzaApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ricardo MR\source\repos\PizzaApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ricardo MR\source\repos\PizzaApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ricardo MR\source\repos\PizzaApp\bin\Debug\EntityFramework.xml
+C:\Users\Ricardo MR\source\repos\PizzaApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ricardo MR\source\repos\PizzaApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ricardo MR\source\repos\PizzaApp\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Ricardo MR\source\repos\PizzaApp\obj\Debug\PizzaApp.csprojAssemblyReference.cache
+C:\Users\Ricardo MR\source\repos\PizzaApp\obj\Debug\PizzaApp.Form1.resources
+C:\Users\Ricardo MR\source\repos\PizzaApp\obj\Debug\PizzaApp.Properties.Resources.resources
+C:\Users\Ricardo MR\source\repos\PizzaApp\obj\Debug\PizzaApp.csproj.GenerateResource.cache
+C:\Users\Ricardo MR\source\repos\PizzaApp\obj\Debug\PizzaApp.csproj.CopyComplete
+C:\Users\Ricardo MR\source\repos\PizzaApp\obj\Debug\PizzaApp.exe
+C:\Users\Ricardo MR\source\repos\PizzaApp\obj\Debug\PizzaApp.pdb
+C:\Users\Ricardo MR\source\repos\PizzaApp\obj\Debug\PizzaApp.LoginForm.resources
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\bin\Debug\PizzaApp.exe.config
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\bin\Debug\PizzaApp.exe
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\bin\Debug\PizzaApp.pdb
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\bin\Debug\EntityFramework.dll
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\bin\Debug\EntityFramework.xml
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csprojAssemblyReference.cache
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\obj\Debug\PizzaApp.Form1.resources
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\obj\Debug\PizzaApp.LoginForm.resources
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\obj\Debug\PizzaApp.Properties.Resources.resources
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csproj.GenerateResource.cache
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csproj.CopyComplete
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\obj\Debug\PizzaApp.exe
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\obj\Debug\PizzaApp.pdb
+C:\Users\Alexi\Desktop\PizzaApp\PizzaApp\obj\Debug\PizzaApp.Ticket.resources
